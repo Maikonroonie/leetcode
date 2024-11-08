@@ -1,0 +1,15 @@
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        a, b = 0, 0
+        sum=0
+        list=[0 for i in range(2)]
+        for i in range(len(nums)):
+            for j in range(i+1,len(nums)):
+                sum=nums[i]+nums[j]
+                if sum==target:
+                    list[0]=i
+                    list[1]=j
+                    return list
+                sum=0
+        return print("nie istnieje taka para liczb")
+print(Solution().twoSum([2,7,11,15],9))
