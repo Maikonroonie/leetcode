@@ -16,4 +16,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maikonroonie/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Maikonroonie/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
