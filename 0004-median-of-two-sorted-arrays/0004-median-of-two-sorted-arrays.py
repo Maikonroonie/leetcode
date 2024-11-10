@@ -5,7 +5,6 @@ class Solution:
         i = 0
         j = 0
         count= 0
-        flag = 0
         m1 = m2 = 0
         size = len(nums1)+len(nums2)
         while (count < size//2+1):
