@@ -1,0 +1,4 @@
+class Solution:
+    def spiralOrder(self, matrix):
+        return matrix and [*matrix.pop(0)] + self.spiralOrder([*zip(*matrix)][::-1])
+print(Solution().spiralOrder([[j*3+i+1 for i in range(3)] for j in range(3)]))
