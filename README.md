@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Maikonroonie/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Maikonroonie/leetcode/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/Maikonroonie/leetcode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Maikonroonie/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Maikonroonie/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Maikonroonie/leetcode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Maikonroonie/leetcode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Maikonroonie/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Maikonroonie/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Maikonroonie/leetcode/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/Maikonroonie/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Maikonroonie/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
