@@ -13,20 +13,13 @@ class Solution(object):
             cur=cur.next
             len+=1
         k=k%len
-        prev=ListNode(0, head)
-        cur=head
-        cnt=0
-        start=head
-        while cnt !=k:
-            start=cur
-            prev=ListNode(0,cur)
-            while cur.next:
-                prev=cur
-                cur=cur.next
-            prev.next=None
-            cur.next=start
-            cnt+=1
-        return cur
-                
-
-            
+        if k==0:
+            return head
+        new_tail_idx=len-k-1
+        new_tail=head
+        for _ in range(new_tail_idx):
+            new_tail=new_tail.next
+        new_head=new_tail.next
+        new_tail.next=None
+        cur.next=head
+        return new_head
