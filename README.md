@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Maikonroonie/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Maikonroonie/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Maikonroonie/leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Maikonroonie/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Maikonroonie/leetcode/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
@@ -84,4 +85,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0061-rotate-list](https://github.com/Maikonroonie/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Maikonroonie/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Maikonroonie/leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
