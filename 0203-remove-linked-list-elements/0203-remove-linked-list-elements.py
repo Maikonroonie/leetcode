@@ -5,8 +5,6 @@
 #         self.next = next
 class Solution(object):
     def removeElements(self, head, val):
-        if not head:
-            return head
         while head and head.val==val:
             head=head.next
         if not head or not head.next:
