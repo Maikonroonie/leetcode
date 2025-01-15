@@ -21,12 +21,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Maikonroonie/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maikonroonie/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Maikonroonie/leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Maikonroonie/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Maikonroonie/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Maikonroonie/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Maikonroonie/leetcode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Maikonroonie/leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Maikonroonie/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Maikonroonie/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Maikonroonie/leetcode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
