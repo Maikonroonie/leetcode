@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Maikonroonie/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Maikonroonie/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Maikonroonie/leetcode/tree/master/0221-maximal-square) |
+| [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
 | [0777-toeplitz-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Hash Table
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Maikonroonie/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Maikonroonie/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Maikonroonie/leetcode/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Maikonroonie/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maikonroonie/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/Maikonroonie/leetcode/tree/master/0221-maximal-square) |
+| [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/Maikonroonie/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Maikonroonie/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Maikonroonie/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maikonroonie/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Maikonroonie/leetcode/tree/master/0234-palindrome-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
