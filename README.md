@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Maikonroonie/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Maikonroonie/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Maikonroonie/leetcode/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/Maikonroonie/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Maikonroonie/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Maikonroonie/leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Maikonroonie/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Maikonroonie/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Maikonroonie/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maikonroonie/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Maikonroonie/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Maikonroonie/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Maikonroonie/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maikonroonie/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -188,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Maikonroonie/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Maikonroonie/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Maikonroonie/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maikonroonie/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -198,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Maikonroonie/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Maikonroonie/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maikonroonie/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Maikonroonie/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
