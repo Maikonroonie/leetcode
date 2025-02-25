@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Maikonroonie/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Maikonroonie/leetcode/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/Maikonroonie/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Maikonroonie/leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
 | [0777-toeplitz-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Maikonroonie/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Maikonroonie/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Maikonroonie/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Maikonroonie/leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
