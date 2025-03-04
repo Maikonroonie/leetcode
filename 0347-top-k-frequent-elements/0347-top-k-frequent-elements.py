@@ -1,10 +1,16 @@
 class Solution(object):
     def topKFrequent(self, nums, k):
-        from collections import defaultdict
-        d=defaultdict(int)
-        for i in range(len(nums)):
-            d[nums[i]]+=1
-        from heapq import nlargest
-        return [key for key, value in nlargest(k, d.items(), key=lambda item: item[1])]
-        
+        count = {}
+        freq= [[] for i in range(len(nums)+1)]
+
+        for n in nums:
+            count[n] = 1 + count.get(n, 0)
+        for n, c in count.items():
+            freq[c].append(n)
+        res=[]
+        for i in range(len(freq)-1, 0, -1):
+            for n in freq[i]:
+                res.append(n)
+                if len(res)==k:
+                    return res
 
