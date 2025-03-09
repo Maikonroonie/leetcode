@@ -6,4 +6,4 @@ class Solution(object):
                 if heights[j]<heights[j+1]:
                     heights[j], heights[j+1] = heights[j+1], heights[j]
                     names[j], names[j+1] = names[j+1], names[j]
-        return names
+        return names #bubble sort, i know it is not optimal but yeah it works tho
