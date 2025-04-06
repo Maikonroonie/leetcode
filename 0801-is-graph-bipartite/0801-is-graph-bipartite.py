@@ -1,5 +1,39 @@
-from collections import deque
+'''class Solution(object):
+    def isBipartite(self, graph):
+        set_a=set()
+        set_b=set()
 
+        def bfs(graph, s, start_set, sec_set):
+            visited=set()
+            q=deque([s])
+            visited.add(s)
+            start_set.add(s)
+            while q:
+                node=q.popleft()
+                for nb in graph[node]:
+                    if node in start_set:
+                        sec_set.add(nb)
+                    else:
+                        start_set.add(nb)
+                    if nb not in visited:
+                        visited.add(nb)
+                        q.append(nb)
+            x=0
+            while x<len(graph):
+                if x not in visited:
+                    if len(set_a)<=len(set_b):
+                        bfs(graph, x, set_a, set_b)
+                    else:
+                        bfs(graph, x, set_b, set_a)
+                x+=1
+            if len(set_a)==len(set_b)==len(graph)//2 and len(graph)%2==0:
+                return True
+            elif len(graph)%2==1 and len(set_a)==(len(set_b)+1):
+                return True
+            else:
+                return False
+        return bfs(graph, 0, set_a, set_b)
+        '''
 class Solution(object):
     def isBipartite(self, graph):
         n = len(graph)
@@ -21,3 +55,6 @@ class Solution(object):
                         elif colors[nb] == colors[node]:
                             return False
         return True
+
+
+
