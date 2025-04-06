@@ -6,8 +6,6 @@
 #         self.right = right
 class Solution(object):
     def isValidBST(self, root):
-        if not root.right and not root.left:
-            return True
         def rek(root, l=float('-inf'), r=float('inf')):
             if not root:
                  return True
