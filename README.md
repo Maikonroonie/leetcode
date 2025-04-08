@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
 | [0777-toeplitz-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1036-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
 | [0777-toeplitz-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1036-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Maikonroonie/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Maikonroonie/leetcode/tree/master/0801-is-graph-bipartite) |
+| [1036-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Maikonroonie/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
