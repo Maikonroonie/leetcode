@@ -56,3 +56,7 @@ class Solution(object):
         print(set_A)
         print(set_P)
         return result
+
+        #program polega na dfs przy brzegach oceanow i dodawanie do set_A pól ktore "wpłynął do atlantyku"
+        # i do set_P pola które wpłynął do pacyfiku i potem zrobienie częśći wspolnej setów (intersection)
+        #prawdopodobnie na spokojnie mozna to napisac w dwa razy mniej linijek, ale trudno, tak wyszło
