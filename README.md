@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Maikonroonie/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Maikonroonie/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Maikonroonie/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Maikonroonie/leetcode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Maikonroonie/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Maikonroonie/leetcode/tree/master/0801-is-graph-bipartite) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Maikonroonie/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Maikonroonie/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Maikonroonie/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Maikonroonie/leetcode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Maikonroonie/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Maikonroonie/leetcode/tree/master/0801-is-graph-bipartite) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Maikonroonie/leetcode/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Maikonroonie/leetcode/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Maikonroonie/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Maikonroonie/leetcode/tree/master/1916-find-center-of-star-graph) |
@@ -314,4 +317,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Maikonroonie/leetcode/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Maikonroonie/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Maikonroonie/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
