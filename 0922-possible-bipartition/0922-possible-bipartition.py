@@ -13,7 +13,7 @@ class Solution(object):
                 colors[i] = 0
                 q=deque([i])
                 while q:
-                    node=q.popleft()
+                    node=q.pop()
                     for nb in graph[node]:
                         if colors[nb] is None:
                             colors[nb] = 1 - colors[node]
