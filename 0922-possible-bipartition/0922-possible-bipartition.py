@@ -1,8 +1,6 @@
 class Solution(object):
     def possibleBipartition(self, n, dislikes):
-        # chyba cos w stylu sortowania topologicznego
-        # i potem dzielimy do dwoch gorup na zmiane i 
-        # albo normalnie probujemy podzielic i tyle 
+
         graph = [[] for _ in range(n+1)]
         for v, u in dislikes:
             graph[v].append(u)
