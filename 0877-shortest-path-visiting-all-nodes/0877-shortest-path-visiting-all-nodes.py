@@ -17,3 +17,10 @@ class Solution(object):
                 if not visited[neighbor][next_mask]:
                     visited[neighbor][next_mask] = True
                     queue.append((neighbor, next_mask, dist + 1))
+
+
+# we have to find shortest path visiting all nodes in whole undirected graph, that means we can start
+#wherever. 
+
+#the first time we reach mask = (1<<n) - 1 (for example for n=5, 10000-1 = 01111) we reached the end 
+#for the first time so the distance is the shortest becouse we do bfs, so we return it
