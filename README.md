@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0922-possible-bipartition](https://github.com/Maikonroonie/leetcode/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/1036-rotting-oranges) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Maikonroonie/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Maikonroonie/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0922-possible-bipartition](https://github.com/Maikonroonie/leetcode/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Maikonroonie/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1916-find-center-of-star-graph](https://github.com/Maikonroonie/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Maikonroonie/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
