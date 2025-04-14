@@ -4,7 +4,7 @@ class Solution(object):
         res=[]
         def dfs(path, node):
             if node == n-1:
-                res.append(list(path))
+                res.append(path[:])
             for nb in graph[node]:
                 path.append(nb)
                 dfs(path, nb)
