@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/Maikonroonie/leetcode/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Maikonroonie/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Maikonroonie/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Maikonroonie/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0922-possible-bipartition](https://github.com/Maikonroonie/leetcode/tree/master/0922-possible-bipartition) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/Maikonroonie/leetcode/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Maikonroonie/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Maikonroonie/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Maikonroonie/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Maikonroonie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
+| [0744-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0744-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Maikonroonie/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Maikonroonie/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Maikonroonie/leetcode/tree/master/0310-minimum-height-trees) |
+| [0744-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Maikonroonie/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Maikonroonie/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -354,4 +358,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
