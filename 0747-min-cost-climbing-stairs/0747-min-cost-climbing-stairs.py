@@ -1,10 +1,10 @@
 class Solution(object):
     def minCostClimbingStairs(self, cost):
         n=len(cost)
-        if n==1:
-            return cost[0]
-        elif n==2:
-            return min(cost[0], cost[1])
+        #if n==1:
+         #   return cost[0]
+        #elif n==2:
+         #   return min(cost[0], cost[1])
         dp=[0 for i in range(n+1)]
         dp[0] = 0
         dp[1] = 0
