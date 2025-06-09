@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Maikonroonie/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Maikonroonie/leetcode/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Maikonroonie/leetcode/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/Maikonroonie/leetcode/tree/master/1250-longest-common-subsequence) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0863-sum-of-distances-in-tree](https://github.com/Maikonroonie/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1013-fibonacci-number](https://github.com/Maikonroonie/leetcode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Maikonroonie/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
