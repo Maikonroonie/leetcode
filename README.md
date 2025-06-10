@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maikonroonie/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Maikonroonie/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Maikonroonie/leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Maikonroonie/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Maikonroonie/leetcode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Maikonroonie/leetcode/tree/master/0072-edit-distance) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Maikonroonie/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Maikonroonie/leetcode/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/Maikonroonie/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Maikonroonie/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Maikonroonie/leetcode/tree/master/0072-edit-distance) |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Maikonroonie/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Maikonroonie/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Maikonroonie/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Maikonroonie/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Maikonroonie/leetcode/tree/master/0050-powx-n) |
