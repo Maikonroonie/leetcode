@@ -1,5 +1,19 @@
 class Solution(object):
     def change(self, amount, coins):
+        dp = [0]*(amount+1)
+        dp[0] = 1  # Jest 1 sposób na uzyskanie kwoty 0
+        
+        for coin in coins:
+            for j in range(coin, amount+1):
+                dp[j] += dp[j-coin]
+        
+        return dp[amount]
+
+
+
+
+'''class Solution(object):
+    def change(self, amount, coins):
         n=len(coins)  # dp[i][j] number of ways to get j money using first i coins
         dp=[[0 for _ in range(amount + 1)] for _ in range(n+1)] 
         for i in range(n+1):
@@ -13,4 +27,4 @@ class Solution(object):
                 else:
                     # Nie możemy wziąć tej monety
                     dp[i][j] = dp[i-1][j]
-        return dp[n][amount]
+        return dp[n][amount]'''
