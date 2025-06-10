@@ -5,6 +5,9 @@ class Solution(object):
 
         dp = [[False] * (len(s2) + 1) for i in range(len(s1) + 1)]
         dp[len(s1)][len(s2)] = True
+        #dp[i][j] reprezentuje liczbę sposobów, w jakie można utworzyć podciąg t[j:] (tzn. fragment
+         #t   zaczynający się od indeksu j) używając podciągu s[i:] (fragmentu s zaczynającego się
+         # od indeksu i).
 
         for i in range(len(s1), -1, -1):
             for j in range(len(s2), -1, -1):
