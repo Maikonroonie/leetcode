@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Maikonroonie/leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Maikonroonie/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Maikonroonie/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Maikonroonie/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Maikonroonie/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Maikonroonie/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Maikonroonie/leetcode/tree/master/0283-move-zeroes) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/Maikonroonie/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Maikonroonie/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Maikonroonie/leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Maikonroonie/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Maikonroonie/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Maikonroonie/leetcode/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Maikonroonie/leetcode/tree/master/0647-palindromic-substrings) |
