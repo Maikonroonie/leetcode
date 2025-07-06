@@ -7,26 +7,26 @@ class Solution(object):
         for i in range(n):
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
-            num = nums[i]
-            target = -num
+            target = -nums[i]
             left = i + 1
             right = n - 1
 
             while left < right:
-                s = nums[left] + nums[right]
-                if s < target:
+                total = nums[left] + nums[right]
+
+                if total < target:
                     left += 1
-                elif s > target:
+                elif total > target:
                     right -= 1
                 else:
-                    res.append((num, nums[left], nums[right]))
-                    prev_left = nums[left]
-                    prev_right = nums[right]
+                    res.append([nums[i], nums[left], nums[right]])
                     left += 1
                     right -= 1
-                    while left < right and nums[left] == prev_left:
+
+                    # Pomijamy duplikaty
+                    while left < right and nums[left] == nums[left - 1]:
                         left += 1
-                    while left < right and nums[right] == prev_right:
+                    while left < right and nums[right] == nums[right + 1]:
                         right -= 1
 
         return res
