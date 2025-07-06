@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Maikonroonie/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maikonroonie/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maikonroonie/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Maikonroonie/leetcode/tree/master/0113-path-sum-ii) |
 | [0863-sum-of-distances-in-tree](https://github.com/Maikonroonie/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Maikonroonie/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maikonroonie/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maikonroonie/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Maikonroonie/leetcode/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/Maikonroonie/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Maikonroonie/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Maikonroonie/leetcode/tree/master/0200-number-of-islands) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Maikonroonie/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maikonroonie/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maikonroonie/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Maikonroonie/leetcode/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -434,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Maikonroonie/leetcode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Maikonroonie/leetcode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Maikonroonie/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Bitmask
