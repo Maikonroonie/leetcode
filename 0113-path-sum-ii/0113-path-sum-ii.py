@@ -20,7 +20,8 @@ class Solution(object):
             else:
                 rek(v.left, target, path)
                 rek(v.right, target, path)
-            path.pop()
+
+            path.pop() # backtrack
         
         rek(root, targetSum, [])
         return result
