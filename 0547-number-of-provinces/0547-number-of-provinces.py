@@ -4,9 +4,8 @@ class Solution(object):
         graph=[[] for _ in range(n)]
         for i in range(n):
             for j in range(n):
-                if isConnected[i][j]==1 and i>j:
+                if isConnected[i][j]==1:
                     graph[i].append(j)
-                    graph[j].append(i)
         cnt=0
 
         visited=[False for _ in range(n)]
