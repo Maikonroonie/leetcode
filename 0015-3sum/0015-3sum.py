@@ -24,12 +24,12 @@ class Solution(object):
                 elif nums[left] + nums[right] == target:
                     res.append((num, nums[left], nums[right]))
                     left += 1
-                    right -= 1
+                    #right -= 1
 
                     while left < right and nums[left] == nums[left - 1]:
                         left += 1
-                    while left < right and nums[right] == nums[right + 1]:
-                        right -= 1
+                    #while left < right and nums[right] == nums[right + 1]:
+                     #   right -= 1
 
                 
 
