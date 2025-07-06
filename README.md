@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Maikonroonie/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Maikonroonie/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Maikonroonie/leetcode/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/Maikonroonie/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Maikonroonie/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Maikonroonie/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Maikonroonie/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -443,4 +444,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Maikonroonie/leetcode/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Maikonroonie/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
