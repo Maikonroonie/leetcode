@@ -5,12 +5,12 @@ class Solution(object):
         n=len(height)
         left = 0
         right = n-1
-        cur_max = (right - left) *min(height[left], height[right])
-        global_max=max(global_max, cur_max)
+       # cur_max = (right - left) *min(height[left], height[right])
+        #global_max=max(global_max, cur_max)
         while left<right:
             cur_max = (right - left) *min(height[left], height[right])
             global_max=max(global_max, cur_max)
-            if height[left] <= height[right]:
+            if height[left] < height[right]:
                 left+=1
             else:
                 right-=1
