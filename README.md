@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Maikonroonie/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Maikonroonie/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0777-toeplitz-matrix) |
+| [0883-car-fleet](https://github.com/Maikonroonie/leetcode/tree/master/0883-car-fleet) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/Maikonroonie/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/Maikonroonie/leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
+| [0883-car-fleet](https://github.com/Maikonroonie/leetcode/tree/master/0883-car-fleet) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Maikonroonie/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Maikonroonie/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Maikonroonie/leetcode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Maikonroonie/leetcode/tree/master/0883-car-fleet) |
 ## Game Theory
 |  |
 | ------- |
@@ -486,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maikonroonie/leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Maikonroonie/leetcode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Maikonroonie/leetcode/tree/master/0883-car-fleet) |
 ## Design
 |  |
 | ------- |
