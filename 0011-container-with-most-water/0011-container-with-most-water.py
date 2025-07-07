@@ -1,14 +1,18 @@
-class Solution:
-    def maxArea(self, height: List[int]) -> int:
-        temp_area=0
-        max_area=0
-        left=0
-        right=len(height)-1
+class Solution(object):
+    def maxArea(self, height):
+        global_max = 0
+        cur_max = 0
+        n=len(height)
+        left = 0
+        right = n-1
+        cur_max = (right - left) *min(height[left], height[right])
+        global_max=max(global_max, cur_max)
         while left<right:
-            temp_area=(right-left)*min(height[left], height[right])
-            max_area=max(temp_area, max_area)
-            if height[left]<=height[right]:
+            cur_max = (right - left) *min(height[left], height[right])
+            global_max=max(global_max, cur_max)
+            if height[left] < height[right]:
                 left+=1
             else:
                 right-=1
-        return max_area
+        return global_max
+
