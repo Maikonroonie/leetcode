@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Maikonroonie/leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Maikonroonie/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Maikonroonie/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Maikonroonie/leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Maikonroonie/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Maikonroonie/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Maikonroonie/leetcode/tree/master/0097-interleaving-string) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Maikonroonie/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Maikonroonie/leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Maikonroonie/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Maikonroonie/leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Maikonroonie/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Maikonroonie/leetcode/tree/master/0070-climbing-stairs) |
@@ -449,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Maikonroonie/leetcode/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Maikonroonie/leetcode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Maikonroonie/leetcode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Maikonroonie/leetcode/tree/master/0813-all-paths-from-source-to-target) |
