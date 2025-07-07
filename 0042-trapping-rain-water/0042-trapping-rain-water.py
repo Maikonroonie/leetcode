@@ -1,5 +1,7 @@
 class Solution(object):
     def trap(self, height):
+        # prefix and sufix sollution
+        # left - prefix, right - sufix etc 
         n=len(height)
         left=[0 for _ in range(n)]
         right = [0 for _ in range(n)]
