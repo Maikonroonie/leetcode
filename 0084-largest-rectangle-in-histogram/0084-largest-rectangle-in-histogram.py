@@ -28,24 +28,15 @@ class Solution(object):
             if next_smaller[i] != -1 and prev_smaller[i] != -1:
                 cur_area = heights[i] * (next_smaller[i] - prev_smaller[i] -1)
                 max_area = max(cur_area, max_area)
-                print(cur_area)
-                print('jeden')
             if prev_smaller[i] == -1 and next_smaller[i]!= -1:
                 cur_area = heights[i] * ( next_smaller[i] )
                 max_area = max(cur_area, max_area)
-                print(cur_area)
-                print('dwa')
             if prev_smaller[i] != -1 and next_smaller[i] == -1:
                 cur_area = heights[i] * ( n - prev_smaller[i]-1)
                 max_area = max(cur_area, max_area)
-                print(cur_area)
-                print('trzy')
             if prev_smaller[i] == -1 and next_smaller[i] == -1:
                 cur_area = heights[i] * (n)
-                max_area = max(cur_area, max_area) 
-                print(cur_area)
-                print('cztery')        
-
+                max_area = max(cur_area, max_area)
            # print((cur_area, next_smaller[i], prev_smaller[i]))        
         return max_area
 
