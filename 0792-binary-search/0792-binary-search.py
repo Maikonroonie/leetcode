@@ -3,7 +3,7 @@ class Solution(object):
         n=len(nums)
         l=0
         r=n-1
-        while l<r:
+        while l<=r:
             mid=(l+r)//2
             if nums[mid]<target:
                 l=mid+1
