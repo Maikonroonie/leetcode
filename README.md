@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0777-toeplitz-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Maikonroonie/leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Maikonroonie/leetcode/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/Maikonroonie/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Maikonroonie/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Maikonroonie/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0792-binary-search](https://github.com/Maikonroonie/leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Maikonroonie/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
