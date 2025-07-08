@@ -9,7 +9,8 @@ class Solution(object):
                 l=mid+1
             elif nums[mid] > target:
                 r=mid-1
-            else: return mid
-        return l if nums[l] == target else -1
+            else:
+                return mid
+        return -1
 
 
