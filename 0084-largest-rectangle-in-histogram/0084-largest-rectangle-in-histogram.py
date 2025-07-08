@@ -39,8 +39,4 @@ class Solution(object):
                 max_area = max(cur_area, max_area)
            # print((cur_area, next_smaller[i], prev_smaller[i]))        
         return max_area
-
-
-
-
-
+        
