@@ -1,30 +1,27 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-      return self.Median(nums1,nums2)  
-    def Median(self,nums1,nums2):
-        i = 0
-        j = 0
-        count= 0
-        m1 = m2 = 0
-        size = len(nums1)+len(nums2)
-        while (count < size//2+1):
-            m2 = m1
-            if i<len(nums1) and j<len(nums2):
-                if nums1[i] <= nums2[j]:
-                    m1=nums1[i]
-                    i +=1
-                else :
-                    m1 = nums2[j]
-                    j +=1
-            elif i<len(nums1):
-                m1 = nums1[i]
-                i +=1
-            elif j<len(nums2):
-                m1 = nums2[j]
-                j +=1
-            count +=1
-        
-        if size %2==0:
-            return(m1+m2)/2
-        else:
-            return m1
+        A, B = nums1, nums2
+        total = len(nums1) + len(nums2)
+        half = total // 2
+
+        if len(B) < len(A):
+            A, B = B, A
+
+        l, r = 0, len(A) - 1
+        while True:
+            i = (l + r) // 2
+            j = half - i - 2
+
+            Aleft = A[i] if i >= 0 else float("-infinity")
+            Aright = A[i + 1] if (i + 1) < len(A) else float("infinity")
+            Bleft = B[j] if j >= 0 else float("-infinity")
+            Bright = B[j + 1] if (j + 1) < len(B) else float("infinity")
+
+            if Aleft <= Bright and Bleft <= Aright:
+                if total % 2:
+                    return min(Aright, Bright)
+                return (max(Aleft, Bleft) + min(Aright, Bright)) / 2
+            elif Aleft > Bright:
+                r = i - 1
+            else:
+                l = i + 1
