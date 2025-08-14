@@ -1,4 +1,4 @@
-class Solution:
+'''class Solution:
     def canJump(self, nums: List[int]) -> bool:
         memo = {}
 
@@ -18,4 +18,14 @@ class Solution:
             memo[i] = False
             return False
 
-        return dfs(0)
+        return dfs(0)'''
+
+
+class Solution:
+    def canJump(self, nums: List[int]) -> bool:
+        far = 0
+        for i, jump in enumerate(nums):
+            if i > far:           # nie doskoczyliśmy do i
+                return False
+            far = max(far, i + jump)
+        return True
