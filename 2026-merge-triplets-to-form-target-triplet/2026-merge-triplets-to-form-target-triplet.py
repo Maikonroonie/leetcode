@@ -1,5 +1,6 @@
 class Solution:
     def mergeTriplets(self, triplets: List[List[int]], target: List[int]) -> bool:
+        # greddy approach
         a, b, c = target
         found0 = found1 = found2 = False
         
