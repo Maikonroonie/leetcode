@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
+| [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Maikonroonie/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0876-hand-of-straights](https://github.com/Maikonroonie/leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Maikonroonie/leetcode/tree/master/0883-car-fleet) |
+| [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1013-fibonacci-number](https://github.com/Maikonroonie/leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Maikonroonie/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Maikonroonie/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Maikonroonie/leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Maikonroonie/leetcode/tree/master/0876-hand-of-straights) |
+| [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Maikonroonie/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Divide and Conquer
 |  |
