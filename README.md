@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Maikonroonie/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Maikonroonie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maikonroonie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0768-partition-labels](https://github.com/Maikonroonie/leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Maikonroonie/leetcode/tree/master/0876-hand-of-straights) |
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Maikonroonie/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Maikonroonie/leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Maikonroonie/leetcode/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/Maikonroonie/leetcode/tree/master/0768-partition-labels) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Maikonroonie/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maikonroonie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Maikonroonie/leetcode/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/Maikonroonie/leetcode/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/Maikonroonie/leetcode/tree/master/1250-longest-common-subsequence) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 ## Binary Search
@@ -247,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Maikonroonie/leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Maikonroonie/leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
+| [0768-partition-labels](https://github.com/Maikonroonie/leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Maikonroonie/leetcode/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Maikonroonie/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Divide and Conquer
