@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Maikonroonie/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Maikonroonie/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Maikonroonie/leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Maikonroonie/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Maikonroonie/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Maikonroonie/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Maikonroonie/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Maikonroonie/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Maikonroonie/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Maikonroonie/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Maikonroonie/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Maikonroonie/leetcode/tree/master/0072-edit-distance) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maikonroonie/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Maikonroonie/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Maikonroonie/leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 ## Divide and Conquer
