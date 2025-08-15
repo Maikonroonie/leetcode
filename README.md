@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Maikonroonie/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Maikonroonie/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Maikonroonie/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Maikonroonie/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Maikonroonie/leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Maikonroonie/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Maikonroonie/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Maikonroonie/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Maikonroonie/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Maikonroonie/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Maikonroonie/leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Maikonroonie/leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Maikonroonie/leetcode/tree/master/0678-valid-parenthesis-string) |
