@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Maikonroonie/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Maikonroonie/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Maikonroonie/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Maikonroonie/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Maikonroonie/leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maikonroonie/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Maikonroonie/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Maikonroonie/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Maikonroonie/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Maikonroonie/leetcode/tree/master/0342-power-of-four) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maikonroonie/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Maikonroonie/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Maikonroonie/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Maikonroonie/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Maikonroonie/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Maikonroonie/leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maikonroonie/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
