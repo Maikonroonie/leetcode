@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Maikonroonie/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/Maikonroonie/leetcode/tree/master/0883-car-fleet) |
 | [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
+| [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Maikonroonie/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Maikonroonie/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Maikonroonie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0744-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0744-network-delay-time) |
+| [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Bucket Sort
 |  |
 | ------- |
