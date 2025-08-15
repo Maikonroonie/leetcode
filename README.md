@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0321-create-maximum-number](https://github.com/Maikonroonie/leetcode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/Maikonroonie/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/Maikonroonie/leetcode/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Maikonroonie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Maikonroonie/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/Maikonroonie/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Maikonroonie/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Maikonroonie/leetcode/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/Maikonroonie/leetcode/tree/master/0321-create-maximum-number) |
+| [0330-patching-array](https://github.com/Maikonroonie/leetcode/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/Maikonroonie/leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Maikonroonie/leetcode/tree/master/0678-valid-parenthesis-string) |
