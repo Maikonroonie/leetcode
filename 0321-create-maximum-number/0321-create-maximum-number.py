@@ -3,7 +3,7 @@ from typing import List
 class Solution:
     def maxNumber(self, nums1: List[int], nums2: List[int], k: int) -> List[int]:
         # wybiera leksykograficznie największy podciąg długości t z nums
-        def pick(nums: List[int], t: int) -> List[int]:
+        def pick(nums, t):
             drop = len(nums) - t
             stack = []
             for x in nums:
@@ -14,7 +14,7 @@ class Solution:
             return stack[:t]
 
         # porównuje a[i:] i b[j:] leksykograficznie
-        def greater(a: List[int], i: int, b: List[int], j: int) -> bool:
+        def greater(a, i, b, j):
             while i < len(a) and j < len(b) and a[i] == b[j]:
                 i += 1
                 j += 1
@@ -25,7 +25,7 @@ class Solution:
             return a[i] > b[j]
 
         # scala dwa podciągi w największą możliwą liczbę
-        def merge(a: List[int], b: List[int]) -> List[int]:
+        def merge(a, b):
             i = j = 0
             out = []
             while i < len(a) or j < len(b):
