@@ -8,5 +8,6 @@ class Solution(object):
             heapq.heappush(heap, -time)
             max_time+=time
             if max_time>end_time:
-                max_time+=heapq.heappop(heap)
+                max_time+=heapq.heappop(heap) # it is actually subtraction(odejmowanie) becouse we 
+                # are keeping -val i heap
         return len(heap)
