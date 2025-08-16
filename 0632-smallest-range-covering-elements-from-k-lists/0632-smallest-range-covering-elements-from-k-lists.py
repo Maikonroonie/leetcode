@@ -9,7 +9,7 @@ class Solution:
         heap = []
         cur_max = -float('inf')
         for i in range(n):
-            heapq.heappush(heap, (nums[i][0], i, 0))
+            heapq.heappush(heap, (nums[i][0], i, 0)) # min heap we keep smallest elements on the top
             cur_max = max(cur_max, nums[i][0])
         small = [-float('inf'), float('inf')] # the range of current smalles slindng window
         while heap:
@@ -26,6 +26,7 @@ class Solution:
                 break
         return small
 
+# in heap we always have one element of each list
 
 
 
