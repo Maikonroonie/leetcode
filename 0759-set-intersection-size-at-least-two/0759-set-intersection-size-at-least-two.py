@@ -21,10 +21,13 @@ class Solution:
             if start > last: # none of the points can currently cover up this interval
                 res.append(end -1)
                 res.append(end)
+
             elif start == last: 
                 res.append(end)
+
             elif start > second_last:
                 res.append(end)
+                
         return len(res)
 
 
