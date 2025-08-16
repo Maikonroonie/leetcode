@@ -8,7 +8,7 @@ class Solution:
         
         target_dresses = total_dresses // n
         moves = 0
-        dresses_so_far = 0
+        dresses_so_far = 0 # prefix sum
         
         for i in range(n):
             dresses_so_far += machines[i] - target_dresses
@@ -17,3 +17,8 @@ class Solution:
             moves = max(moves, abs(dresses_so_far), machines[i] - target_dresses)
         
         return moves
+        # we take max of this two: dreses_so_far, machines[i] - target_dresses
+        #wehre machines[i] - target_dresses is the overload so the waching machine have to give it away
+        # and the dreses_so_far is the curent flow on each waching machine it means whethr 
+        # we have to move some dress to the left / right (-/+)
+        # and we take the maximum val of it                                   
