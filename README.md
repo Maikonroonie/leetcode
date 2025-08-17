@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Maikonroonie/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Maikonroonie/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
+| [0867-new-21-game](https://github.com/Maikonroonie/leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Maikonroonie/leetcode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Maikonroonie/leetcode/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maikonroonie/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Maikonroonie/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/Maikonroonie/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0863-sum-of-distances-in-tree](https://github.com/Maikonroonie/leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0867-new-21-game](https://github.com/Maikonroonie/leetcode/tree/master/0867-new-21-game) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1013-fibonacci-number](https://github.com/Maikonroonie/leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Maikonroonie/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Maikonroonie/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maikonroonie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0867-new-21-game](https://github.com/Maikonroonie/leetcode/tree/master/0867-new-21-game) |
 ## Stack
 |  |
 | ------- |
@@ -585,4 +588,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Maikonroonie/leetcode/tree/master/0155-min-stack) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Maikonroonie/leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
