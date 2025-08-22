@@ -1,3 +1,21 @@
+#monotonic stack approach :)
+class Solution:
+    def maxChunksToSorted(self, arr: List[int]) -> int:
+        n = len(arr)
+        stack = []
+        for x in arr:
+            if not stack or stack[-1] <= x:
+                stack.append(x)
+            else:
+                top = stack[-1]
+                while stack and stack[-1] > x:
+                    stack.pop()
+                stack.append(top)
+
+        return len(stack)
+
+
+'''
 class Solution:
     def maxChunksToSorted(self, arr: List[int]) -> int:
         n = len(arr)
@@ -21,5 +39,7 @@ class Solution:
                 res+=1
         
         return res
+'''
+
 
 
