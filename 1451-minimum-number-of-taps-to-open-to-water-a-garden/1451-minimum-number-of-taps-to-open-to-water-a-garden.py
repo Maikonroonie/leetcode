@@ -28,3 +28,24 @@ class Solution:
             res+=1
             cur_end = far
         return res
+'''
+#dynamic aporoach, (worse complexcity)
+    
+class Solution:
+    def minTaps(self, n: int, ranges: List[int]) -> int:
+        #dp[i] - minimalna liczba kranow aby podlac przedzial od zera do i [0,1,..., i]
+        dp = [inf for _ in range(n+1)]
+        dp[0] = 0 # warunek bazowy
+
+        for i, r in enumerate(ranges):
+            left = max(0, i-r)
+            right = min(n, i+r)
+
+            for j in range(left, right +1):
+                dp[right] = min(dp[right], dp[j] + 1)
+        
+        return dp[n] if dp[n] != inf else -1
+
+'''
+
+    
