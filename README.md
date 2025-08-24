@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maikonroonie/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Maikonroonie/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Maikonroonie/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Maikonroonie/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maikonroonie/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Maikonroonie/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Maikonroonie/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0638-shopping-offers](https://github.com/Maikonroonie/leetcode/tree/master/0638-shopping-offers) |
 | [0823-split-array-with-same-average](https://github.com/Maikonroonie/leetcode/tree/master/0823-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Maikonroonie/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maikonroonie/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -599,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/Maikonroonie/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Maikonroonie/leetcode/tree/master/0638-shopping-offers) |
 | [0813-all-paths-from-source-to-target](https://github.com/Maikonroonie/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Maikonroonie/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Bitmask
 |  |
 | ------- |
@@ -607,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0638-shopping-offers](https://github.com/Maikonroonie/leetcode/tree/master/0638-shopping-offers) |
 | [0823-split-array-with-same-average](https://github.com/Maikonroonie/leetcode/tree/master/0823-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Maikonroonie/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Shortest Path
 |  |
 | ------- |
