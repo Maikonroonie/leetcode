@@ -21,5 +21,5 @@ class Solution:
                     res += dp(i+1, mask | 1 << j)
                     memo[mask] = res
             return res
-            memo[mask] = res
+           # memo[mask] = res
         return dp(1, 0)
