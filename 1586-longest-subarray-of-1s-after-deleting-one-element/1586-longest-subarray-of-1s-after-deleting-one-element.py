@@ -16,7 +16,7 @@ class Solution:
                     cnt-=1
                 l+=1
             
-            max_res = max(max_res, r - l)
+            max_res = max(max_res, r - l) # it is basiclly r-l + 1 - 1
         
         return max_res
 
