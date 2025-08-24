@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/Maikonroonie/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0638-shopping-offers](https://github.com/Maikonroonie/leetcode/tree/master/0638-shopping-offers) |
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Maikonroonie/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Maikonroonie/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Maikonroonie/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Maikonroonie/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Maikonroonie/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/Maikonroonie/leetcode/tree/master/0638-shopping-offers) |
 | [0647-palindromic-substrings](https://github.com/Maikonroonie/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Maikonroonie/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/Maikonroonie/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Maikonroonie/leetcode/tree/master/0342-power-of-four) |
 | [0464-can-i-win](https://github.com/Maikonroonie/leetcode/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/Maikonroonie/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/Maikonroonie/leetcode/tree/master/0638-shopping-offers) |
 | [0823-split-array-with-same-average](https://github.com/Maikonroonie/leetcode/tree/master/0823-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maikonroonie/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -425,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Maikonroonie/leetcode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0464-can-i-win](https://github.com/Maikonroonie/leetcode/tree/master/0464-can-i-win) |
+| [0638-shopping-offers](https://github.com/Maikonroonie/leetcode/tree/master/0638-shopping-offers) |
 | [1013-fibonacci-number](https://github.com/Maikonroonie/leetcode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
@@ -593,12 +597,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/Maikonroonie/leetcode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Maikonroonie/leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Maikonroonie/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/Maikonroonie/leetcode/tree/master/0638-shopping-offers) |
 | [0813-all-paths-from-source-to-target](https://github.com/Maikonroonie/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Bitmask
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Maikonroonie/leetcode/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/Maikonroonie/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/Maikonroonie/leetcode/tree/master/0638-shopping-offers) |
 | [0823-split-array-with-same-average](https://github.com/Maikonroonie/leetcode/tree/master/0823-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 ## Shortest Path
