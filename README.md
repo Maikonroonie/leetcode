@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Maikonroonie/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maikonroonie/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Maikonroonie/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Maikonroonie/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/Maikonroonie/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Maikonroonie/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maikonroonie/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Maikonroonie/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Bit Manipulation
 |  |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Maikonroonie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0867-new-21-game](https://github.com/Maikonroonie/leetcode/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maikonroonie/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
