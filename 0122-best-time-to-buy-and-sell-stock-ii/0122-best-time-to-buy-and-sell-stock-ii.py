@@ -1,3 +1,4 @@
+#klasyczne proste greedy rozwiazanie
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         profit = 0
@@ -6,7 +7,7 @@ class Solution:
                 profit += prices[i] - prices[i-1]
         return profit
 
-
+#mialem pomysl z kopcem ale koncowo nie ma on do konca sensu
 '''
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
