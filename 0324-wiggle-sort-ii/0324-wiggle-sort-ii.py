@@ -20,9 +20,7 @@ class Solution:
                 r_idx -= 1
 '''
 
-from typing import List
-import random
-
+# o(n) with the quick select algorithm
 class Solution:
     def wiggleSort(self, nums: List[int]) -> None:
         n = len(nums)
