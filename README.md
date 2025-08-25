@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Maikonroonie/leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Maikonroonie/leetcode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Maikonroonie/leetcode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Maikonroonie/leetcode/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Maikonroonie/leetcode/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Maikonroonie/leetcode/tree/master/0518-coin-change-ii) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/Maikonroonie/leetcode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Maikonroonie/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/Maikonroonie/leetcode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
 | [0777-toeplitz-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Maikonroonie/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Maikonroonie/leetcode/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maikonroonie/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
