@@ -1,5 +1,27 @@
 class Solution:
     def smallestSubsequence(self, s: str) -> str:
+        last = {c: i for i, c in enumerate(s)}
+        stack = []
+        for i, c in enumerate(s):
+            if c in stack: continue
+            while stack and stack[-1] > c and i < last[stack[-1]]:
+                stack.pop()
+            stack.append(c)
+        print(stack)
+        res = ''
+        for i in range(len(stack)):
+            res += stack[i]
+
+        return res
+
+'''
+
+
+
+
+
+class Solution:
+    def smallestSubsequence(self, s: str) -> str:
         taken = set()
         freq = Counter(s) # robi słownik co ile razy wystepuje
         stack = []
@@ -26,3 +48,4 @@ class Solution:
         return res
 
 
+'''
