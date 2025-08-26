@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Maikonroonie/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Maikonroonie/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Maikonroonie/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
