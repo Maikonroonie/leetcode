@@ -10,14 +10,14 @@ class Solution:
 
         for key, lists in diags.items():
             if key>0:
-                lists.sort()
-            else:
                 lists.sort(reverse = True)
+            else:
+                lists.sort()
 
         A = [[0 for _ in range(n)] for _ in range(n)]
         for y in range(n):
             for x in range(n):
-                A[y][x] = diags[x-y].pop(0)
+                A[y][x] = diags[x-y].pop()
 
         return A
 
