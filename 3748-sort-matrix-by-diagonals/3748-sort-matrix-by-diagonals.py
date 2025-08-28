@@ -13,7 +13,7 @@ class Solution:
                 lists.sort()
             else:
                 lists.sort(reverse = True)
-                
+
         A = [[0 for _ in range(n)] for _ in range(n)]
         for y in range(n):
             for x in range(n):
@@ -21,7 +21,3 @@ class Solution:
 
         return A
 
-
-
-
-        return []
