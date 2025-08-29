@@ -1,8 +1,16 @@
 class Solution:
     def flowerGame(self, n: int, m: int) -> int:
-        # alice wins id sum is odd  3, 5, itd
-        #edno musi byc nieparzyste drugie parzyste 
+        # alice wins if sum is odd  3, 5, itd
+        #jedno musi byc nieparzyste drugie parzyste 
+        evenM = m//2
+        oddM = m - evenM
+        evenN = n//2
+        oddN = n - evenN
+        return (evenM * oddN) + (evenN * oddM)
 
+
+
+'''
         #1 n payrzste m nieparz
         res = 0
         x, y = 0, 0
@@ -20,3 +28,4 @@ class Solution:
         res += x*y
         return res
 
+'''
