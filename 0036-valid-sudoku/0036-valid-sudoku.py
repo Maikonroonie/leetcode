@@ -1,6 +1,5 @@
-class Solution(object):
-    def isValidSudoku(self, board):
-        from collections import defaultdict
+class Solution:
+    def isValidSudoku(self, board: List[List[str]]) -> bool:
         rows=defaultdict(set)
         cols=defaultdict(set)
         squares=defaultdict(set)
