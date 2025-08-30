@@ -1,5 +1,5 @@
-class Solution(object):
-    def dailyTemperatures(self, temperatures):
+class Solution:
+    def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
         n=len(temperatures)
         result = [0 for _ in range(n)]
         stack = []  # indeksy
