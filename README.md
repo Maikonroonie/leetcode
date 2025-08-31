@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Maikonroonie/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Maikonroonie/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Maikonroonie/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Maikonroonie/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Maikonroonie/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Maikonroonie/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Maikonroonie/leetcode/tree/master/0053-maximum-subarray) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maikonroonie/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Maikonroonie/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Maikonroonie/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Maikonroonie/leetcode/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Maikonroonie/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Maikonroonie/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Maikonroonie/leetcode/tree/master/0139-word-break) |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Maikonroonie/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Maikonroonie/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Maikonroonie/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -620,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Maikonroonie/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Maikonroonie/leetcode/tree/master/0037-sudoku-solver) |
 | [0113-path-sum-ii](https://github.com/Maikonroonie/leetcode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Maikonroonie/leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Maikonroonie/leetcode/tree/master/0526-beautiful-arrangement) |
