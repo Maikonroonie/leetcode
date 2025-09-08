@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Maikonroonie/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Maikonroonie/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Maikonroonie/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Maikonroonie/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Maikonroonie/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maikonroonie/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Maikonroonie/leetcode/tree/master/0027-remove-element) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Maikonroonie/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Maikonroonie/leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Maikonroonie/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Maikonroonie/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Maikonroonie/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Maikonroonie/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Maikonroonie/leetcode/tree/master/0044-wildcard-matching) |
@@ -660,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Maikonroonie/leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Maikonroonie/leetcode/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
