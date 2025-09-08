@@ -1,5 +1,7 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
+        # brute force approach
+        '''
         res = ''
         n = len(strs)
         k = inf
@@ -13,4 +15,13 @@ class Solution:
                     return res
             res += st
         return res
+        '''
+        if not strs:
+            return ""
+        a = min(strs)
+        b = max(strs)
+        i = 0
+        while i < len(a) and i < len(b) and a[i] == b[i]:
+            i += 1
+        return a[:i]
 
