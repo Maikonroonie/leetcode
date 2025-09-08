@@ -1,6 +1,5 @@
 
 class TrieNode:
-    __slots__ = ("children", "end")
     def __init__(self):
         self.children = {}       # char -> TrieNode
         self.end = False         # czy kończy się tu słowo
