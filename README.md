@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maikonroonie/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Maikonroonie/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Maikonroonie/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Maikonroonie/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Maikonroonie/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Bit Manipulation
 |  |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/Maikonroonie/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Maikonroonie/leetcode/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Maikonroonie/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maikonroonie/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
@@ -710,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0973-stamping-the-sequence](https://github.com/Maikonroonie/leetcode/tree/master/0973-stamping-the-sequence) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Maikonroonie/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Geometry
 |  |
 | ------- |
