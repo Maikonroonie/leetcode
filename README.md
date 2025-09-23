@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Maikonroonie/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Maikonroonie/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Maikonroonie/leetcode/tree/master/0141-linked-list-cycle) |
+| [0165-compare-version-numbers](https://github.com/Maikonroonie/leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maikonroonie/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Maikonroonie/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Maikonroonie/leetcode/tree/master/0283-move-zeroes) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/Maikonroonie/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Maikonroonie/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Maikonroonie/leetcode/tree/master/0139-word-break) |
+| [0165-compare-version-numbers](https://github.com/Maikonroonie/leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Maikonroonie/leetcode/tree/master/0242-valid-anagram) |
 | [0420-strong-password-checker](https://github.com/Maikonroonie/leetcode/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maikonroonie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
