@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Maikonroonie/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0792-binary-search](https://github.com/Maikonroonie/leetcode/tree/master/0792-binary-search) |
 | [0823-split-array-with-same-average](https://github.com/Maikonroonie/leetcode/tree/master/0823-split-array-with-same-average) |
+| [0830-largest-triangle-area](https://github.com/Maikonroonie/leetcode/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/Maikonroonie/leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Maikonroonie/leetcode/tree/master/0883-car-fleet) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Maikonroonie/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0464-can-i-win](https://github.com/Maikonroonie/leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
 | [0823-split-array-with-same-average](https://github.com/Maikonroonie/leetcode/tree/master/0823-split-array-with-same-average) |
+| [0830-largest-triangle-area](https://github.com/Maikonroonie/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Maikonroonie/leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Maikonroonie/leetcode/tree/master/1013-fibonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Maikonroonie/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -765,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Maikonroonie/leetcode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Maikonroonie/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Maikonroonie/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Brainteaser
