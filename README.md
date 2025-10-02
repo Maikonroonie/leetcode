@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/Maikonroonie/leetcode/tree/master/1127-last-stone-weight) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Maikonroonie/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maikonroonie/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Maikonroonie/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Maikonroonie/leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Maikonroonie/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Maikonroonie/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/Maikonroonie/leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Maikonroonie/leetcode/tree/master/0883-car-fleet) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Maikonroonie/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -433,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0777-toeplitz-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/1036-rotting-oranges) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Maikonroonie/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Maikonroonie/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Maikonroonie/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -630,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Maikonroonie/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Maikonroonie/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1127-last-stone-weight](https://github.com/Maikonroonie/leetcode/tree/master/1127-last-stone-weight) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1917-maximum-average-pass-ratio](https://github.com/Maikonroonie/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/Maikonroonie/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
