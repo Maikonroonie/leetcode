@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Maikonroonie/leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Maikonroonie/leetcode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Maikonroonie/leetcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Maikonroonie/leetcode/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/Maikonroonie/leetcode/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Maikonroonie/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Maikonroonie/leetcode/tree/master/0526-beautiful-arrangement) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/Maikonroonie/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/Maikonroonie/leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Maikonroonie/leetcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Maikonroonie/leetcode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/Maikonroonie/leetcode/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -616,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Maikonroonie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0420-strong-password-checker](https://github.com/Maikonroonie/leetcode/tree/master/0420-strong-password-checker) |
 | [0502-ipo](https://github.com/Maikonroonie/leetcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Maikonroonie/leetcode/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0744-network-delay-time) |
