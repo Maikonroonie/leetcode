@@ -5,6 +5,7 @@ class Solution:
 
         nums.sort(reverse = True)
         return f(0, 1)
+        # co to jest za zadanie xdddd
 
 
         
