@@ -534,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maikonroonie/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maikonroonie/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Maikonroonie/leetcode/tree/master/0113-path-sum-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Maikonroonie/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0863-sum-of-distances-in-tree](https://github.com/Maikonroonie/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maikonroonie/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maikonroonie/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Maikonroonie/leetcode/tree/master/0113-path-sum-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Maikonroonie/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -612,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/Maikonroonie/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Maikonroonie/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maikonroonie/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Maikonroonie/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -622,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Maikonroonie/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Maikonroonie/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Maikonroonie/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1917-maximum-average-pass-ratio](https://github.com/Maikonroonie/leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -751,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/Maikonroonie/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Maikonroonie/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Maikonroonie/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2429-design-a-food-rating-system](https://github.com/Maikonroonie/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Maikonroonie/leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Maikonroonie/leetcode/tree/master/3797-design-spreadsheet) |
@@ -788,4 +793,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Maikonroonie/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Maikonroonie/leetcode/tree/master/3678-design-task-manager) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Maikonroonie/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
