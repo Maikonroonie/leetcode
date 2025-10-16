@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Maikonroonie/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Maikonroonie/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Maikonroonie/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2725-mice-and-cheese](https://github.com/Maikonroonie/leetcode/tree/master/2725-mice-and-cheese) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/Maikonroonie/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Maikonroonie/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Maikonroonie/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Maikonroonie/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maikonroonie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/Maikonroonie/leetcode/tree/master/3678-design-task-manager) |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/Maikonroonie/leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Maikonroonie/leetcode/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Maikonroonie/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Maikonroonie/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Maikonroonie/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Maikonroonie/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Maikonroonie/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -432,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/Maikonroonie/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Maikonroonie/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Maikonroonie/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Maikonroonie/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2725-mice-and-cheese](https://github.com/Maikonroonie/leetcode/tree/master/2725-mice-and-cheese) |
 ## Divide and Conquer
