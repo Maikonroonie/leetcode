@@ -17,6 +17,13 @@ class Solution:
 
         return res
 '''
+
+#m — długość pojedynczego bloku: sqrt(n)
+
+#block — lista przechowująca maksymalną pojemność w każdym bloku
+
+#Dzięki temu wiemy szybko, czy w danym bloku w ogóle jest kosz,
+#który pomieści owoc, bez #sprawdzania każdego kosza osobno.
 class Solution:
     def numOfUnplacedFruits(self, fruits: List[int], baskets: List[int]) -> int:
         n, m = len(baskets), int(sqrt(len(baskets)))
