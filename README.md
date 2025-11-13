@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Maikonroonie/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2887-sort-vowels-in-a-string](https://github.com/Maikonroonie/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Maikonroonie/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Maikonroonie/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3797-design-spreadsheet](https://github.com/Maikonroonie/leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Maikonroonie/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -453,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Maikonroonie/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2725-mice-and-cheese](https://github.com/Maikonroonie/leetcode/tree/master/2725-mice-and-cheese) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Maikonroonie/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -706,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Maikonroonie/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Maikonroonie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maikonroonie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Maikonroonie/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Maikonroonie/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
