@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Maikonroonie/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2887-sort-vowels-in-a-string](https://github.com/Maikonroonie/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Maikonroonie/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Maikonroonie/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Maikonroonie/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3797-design-spreadsheet](https://github.com/Maikonroonie/leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Maikonroonie/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -548,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-new-21-game](https://github.com/Maikonroonie/leetcode/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maikonroonie/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Maikonroonie/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Maikonroonie/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Maikonroonie/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Stack
 |  |
@@ -844,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Maikonroonie/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Maikonroonie/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Maikonroonie/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Maikonroonie/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Queue
 |  |
 | ------- |
