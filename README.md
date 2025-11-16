@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Maikonroonie/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Maikonroonie/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Maikonroonie/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Maikonroonie/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Maikonroonie/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Maikonroonie/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Maikonroonie/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2887-sort-vowels-in-a-string](https://github.com/Maikonroonie/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Maikonroonie/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Maikonroonie/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Maikonroonie/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Maikonroonie/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Maikonroonie/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2725-mice-and-cheese](https://github.com/Maikonroonie/leetcode/tree/master/2725-mice-and-cheese) |
+| [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Maikonroonie/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Maikonroonie/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Maikonroonie/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
