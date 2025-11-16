@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Maikonroonie/leetcode/tree/master/0342-power-of-four) |
 | [0464-can-i-win](https://github.com/Maikonroonie/leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/Maikonroonie/leetcode/tree/master/0507-perfect-number) |
 | [0823-split-array-with-same-average](https://github.com/Maikonroonie/leetcode/tree/master/0823-split-array-with-same-average) |
 | [0830-largest-triangle-area](https://github.com/Maikonroonie/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Maikonroonie/leetcode/tree/master/0867-new-21-game) |
