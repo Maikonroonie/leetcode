@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Maikonroonie/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Maikonroonie/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Maikonroonie/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3388-right-triangles](https://github.com/Maikonroonie/leetcode/tree/master/3388-right-triangles) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Maikonroonie/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Maikonroonie/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Maikonroonie/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Maikonroonie/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Maikonroonie/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maikonroonie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3388-right-triangles](https://github.com/Maikonroonie/leetcode/tree/master/3388-right-triangles) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Maikonroonie/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Maikonroonie/leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Maikonroonie/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Maikonroonie/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Maikonroonie/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/Maikonroonie/leetcode/tree/master/3336-water-bottles-ii) |
+| [3388-right-triangles](https://github.com/Maikonroonie/leetcode/tree/master/3388-right-triangles) |
 | [3462-vowels-game-in-a-string](https://github.com/Maikonroonie/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maikonroonie/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Maikonroonie/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -729,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Maikonroonie/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Maikonroonie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maikonroonie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3388-right-triangles](https://github.com/Maikonroonie/leetcode/tree/master/3388-right-triangles) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Maikonroonie/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Maikonroonie/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
@@ -825,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maikonroonie/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3199-distribute-candies-among-children-i](https://github.com/Maikonroonie/leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Maikonroonie/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3388-right-triangles](https://github.com/Maikonroonie/leetcode/tree/master/3388-right-triangles) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Maikonroonie/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Prefix Sum
 |  |
