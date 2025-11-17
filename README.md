@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Maikonroonie/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/Maikonroonie/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/Maikonroonie/leetcode/tree/master/3797-design-spreadsheet) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Maikonroonie/leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3462-vowels-game-in-a-string](https://github.com/Maikonroonie/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maikonroonie/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Maikonroonie/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Maikonroonie/leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## String
 |  |
 | ------- |
@@ -831,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3201-distribute-candies-among-children-ii](https://github.com/Maikonroonie/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3388-right-triangles](https://github.com/Maikonroonie/leetcode/tree/master/3388-right-triangles) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Maikonroonie/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Maikonroonie/leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -886,6 +889,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Maikonroonie/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Maikonroonie/leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Number Theory
 |  |
 | ------- |
