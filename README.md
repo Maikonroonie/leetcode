@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/Maikonroonie/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1006-vowel-spellchecker](https://github.com/Maikonroonie/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Maikonroonie/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/Maikonroonie/leetcode/tree/master/1127-last-stone-weight) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/Maikonroonie/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Maikonroonie/leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Maikonroonie/leetcode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Maikonroonie/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Maikonroonie/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Maikonroonie/leetcode/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Maikonroonie/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/Maikonroonie/leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Maikonroonie/leetcode/tree/master/0883-car-fleet) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Maikonroonie/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1018-largest-perimeter-triangle](https://github.com/Maikonroonie/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 | [1539-diagonal-traverse-ii](https://github.com/Maikonroonie/leetcode/tree/master/1539-diagonal-traverse-ii) |
@@ -466,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Maikonroonie/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Maikonroonie/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0973-stamping-the-sequence](https://github.com/Maikonroonie/leetcode/tree/master/0973-stamping-the-sequence) |
+| [1018-largest-perimeter-triangle](https://github.com/Maikonroonie/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Maikonroonie/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/Maikonroonie/leetcode/tree/master/1448-maximum-69-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Maikonroonie/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
