@@ -1,8 +1,14 @@
 class Solution:
     def largestPerimeter(self, nums: List[int]) -> int:
+
+        nums.sort(reverse=True)
+        for i in range(len(nums) - 2):
+            if nums[i+1] + nums[i+2] > nums[i]:
+                return nums[i] + nums[i+1] + nums[i+2]
+        return 0
         # we want to construct a triangle with the biggest porimeter
         # so when we have a, b, c triangle can be formed if a + b > c and c > a and c > b
-
+        '''
         nums.sort(reverse = True)
 
         a = None
@@ -26,6 +32,8 @@ class Solution:
             if a + b > c:
                 return a + b + c
         return 0
+'''
+
 
 
 
