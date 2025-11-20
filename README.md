@@ -918,4 +918,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/Maikonroonie/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Maikonroonie/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
