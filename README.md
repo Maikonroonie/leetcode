@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1006-vowel-spellchecker](https://github.com/Maikonroonie/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Maikonroonie/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Maikonroonie/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/Maikonroonie/leetcode/tree/master/1127-last-stone-weight) |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0638-shopping-offers](https://github.com/Maikonroonie/leetcode/tree/master/0638-shopping-offers) |
 | [0823-split-array-with-same-average](https://github.com/Maikonroonie/leetcode/tree/master/0823-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Maikonroonie/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maikonroonie/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Maikonroonie/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maikonroonie/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
