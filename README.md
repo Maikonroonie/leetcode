@@ -710,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1229-shortest-path-with-alternating-colors](https://github.com/Maikonroonie/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Maikonroonie/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/Maikonroonie/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -788,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1916-find-center-of-star-graph](https://github.com/Maikonroonie/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Maikonroonie/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/Maikonroonie/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Union Find
 |  |
 | ------- |
