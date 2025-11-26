@@ -3,7 +3,8 @@ class Solution:
         n = len(nums)
         # minimum suma
         res = nums[0]
-        A = nums[1:]
+        A = nums[1:n]
+
         A.sort()
         return res + A[0] + A[1]
 
