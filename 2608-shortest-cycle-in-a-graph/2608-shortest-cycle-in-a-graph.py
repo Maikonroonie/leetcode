@@ -28,7 +28,9 @@ class Solution:
                         res = min(res, lenght)
             return res
 
-
+# ogolnie to jest troche brzydko napisane, bo ladniej by bylo jakby dist było 
+# napisane w funkcji bfs, a visited moze by nie bylo potrzebne bo by wystraczylo
+# sprawdzac czy dist[u] == -1, bo jak jest to znaczy ze u jest not visited
         ans = inf
         for u in range(n):
             dist = [-1 for _ in range(n+1)]
