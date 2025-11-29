@@ -966,4 +966,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Maikonroonie/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Maikonroonie/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Maikonroonie/leetcode/tree/master/1075-project-employees-i) |
+| [1393-capital-gainloss](https://github.com/Maikonroonie/leetcode/tree/master/1393-capital-gainloss) |
 <!---LeetCode Topics End-->
