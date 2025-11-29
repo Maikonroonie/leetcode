@@ -1,10 +1,11 @@
 # Write your MySQL query statement below
-/*
+
 select email as Email
 from Person
 group by email
 having count(email) > 1;
-*/
+
+/* window function
 SELECT DISTINCT email
 FROM (
     SELECT 
@@ -13,6 +14,7 @@ FROM (
     FROM Person
 ) as t
 WHERE cnt > 1;
+*/
 
 /* self join
 SELECT DISTINCT p1.email
