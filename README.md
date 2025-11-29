@@ -961,4 +961,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/Maikonroonie/leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Maikonroonie/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Maikonroonie/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/Maikonroonie/leetcode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
