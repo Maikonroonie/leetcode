@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-number-of-substrings-with-only-1s](https://github.com/Maikonroonie/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Maikonroonie/leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Maikonroonie/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/Maikonroonie/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maikonroonie/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Maikonroonie/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Maikonroonie/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -920,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/Maikonroonie/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maikonroonie/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Maikonroonie/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3199-distribute-candies-among-children-i](https://github.com/Maikonroonie/leetcode/tree/master/3199-distribute-candies-among-children-i) |
