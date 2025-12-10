@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Maikonroonie/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Maikonroonie/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Maikonroonie/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Maikonroonie/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Maikonroonie/leetcode/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Maikonroonie/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Maikonroonie/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Maikonroonie/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Maikonroonie/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Maikonroonie/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Maikonroonie/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maikonroonie/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Maikonroonie/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Maikonroonie/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -886,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3199-distribute-candies-among-children-i](https://github.com/Maikonroonie/leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Maikonroonie/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3388-right-triangles](https://github.com/Maikonroonie/leetcode/tree/master/3388-right-triangles) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Maikonroonie/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Maikonroonie/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Maikonroonie/leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Prefix Sum
@@ -950,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Maikonroonie/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Maikonroonie/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Maikonroonie/leetcode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Number Theory
 |  |
