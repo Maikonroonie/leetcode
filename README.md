@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/Maikonroonie/leetcode/tree/master/1127-last-stone-weight) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Maikonroonie/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maikonroonie/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Maikonroonie/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/Maikonroonie/leetcode/tree/master/1470-shuffle-the-array) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1015-smallest-integer-divisible-by-k](https://github.com/Maikonroonie/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Maikonroonie/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maikonroonie/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/Maikonroonie/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Maikonroonie/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Maikonroonie/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Maikonroonie/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1018-largest-perimeter-triangle](https://github.com/Maikonroonie/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Maikonroonie/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maikonroonie/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 | [1539-diagonal-traverse-ii](https://github.com/Maikonroonie/leetcode/tree/master/1539-diagonal-traverse-ii) |
@@ -1020,4 +1023,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1158-market-analysis-i](https://github.com/Maikonroonie/leetcode/tree/master/1158-market-analysis-i) |
 | [1193-monthly-transactions-i](https://github.com/Maikonroonie/leetcode/tree/master/1193-monthly-transactions-i) |
 | [1393-capital-gainloss](https://github.com/Maikonroonie/leetcode/tree/master/1393-capital-gainloss) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maikonroonie/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
