@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/Maikonroonie/leetcode/tree/master/1127-last-stone-weight) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Maikonroonie/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maikonroonie/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Maikonroonie/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Maikonroonie/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/Maikonroonie/leetcode/tree/master/1470-shuffle-the-array) |
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/Maikonroonie/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Maikonroonie/leetcode/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Maikonroonie/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Maikonroonie/leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Maikonroonie/leetcode/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Maikonroonie/leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -651,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/Maikonroonie/leetcode/tree/master/0883-car-fleet) |
 | [0973-stamping-the-sequence](https://github.com/Maikonroonie/leetcode/tree/master/0973-stamping-the-sequence) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Maikonroonie/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Maikonroonie/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Maikonroonie/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Maikonroonie/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Maikonroonie/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
