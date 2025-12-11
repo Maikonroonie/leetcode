@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/Maikonroonie/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Maikonroonie/leetcode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Maikonroonie/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Maikonroonie/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Maikonroonie/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Maikonroonie/leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Maikonroonie/leetcode/tree/master/0498-diagonal-traverse) |
