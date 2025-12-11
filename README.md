@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0638-shopping-offers](https://github.com/Maikonroonie/leetcode/tree/master/0638-shopping-offers) |
+| [0645-set-mismatch](https://github.com/Maikonroonie/leetcode/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Maikonroonie/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/Maikonroonie/leetcode/tree/master/0739-daily-temperatures) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Maikonroonie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maikonroonie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/Maikonroonie/leetcode/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/Maikonroonie/leetcode/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/Maikonroonie/leetcode/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/Maikonroonie/leetcode/tree/master/0876-hand-of-straights) |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Maikonroonie/leetcode/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/Maikonroonie/leetcode/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Maikonroonie/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Maikonroonie/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0807-custom-sort-string](https://github.com/Maikonroonie/leetcode/tree/master/0807-custom-sort-string) |
@@ -478,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0464-can-i-win](https://github.com/Maikonroonie/leetcode/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/Maikonroonie/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Maikonroonie/leetcode/tree/master/0638-shopping-offers) |
+| [0645-set-mismatch](https://github.com/Maikonroonie/leetcode/tree/master/0645-set-mismatch) |
 | [0823-split-array-with-same-average](https://github.com/Maikonroonie/leetcode/tree/master/0823-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Maikonroonie/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
