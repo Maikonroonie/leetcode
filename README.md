@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1262-greatest-sum-divisible-by-three](https://github.com/Maikonroonie/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Maikonroonie/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1470-shuffle-the-array](https://github.com/Maikonroonie/leetcode/tree/master/1470-shuffle-the-array) |
 | [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 | [1539-diagonal-traverse-ii](https://github.com/Maikonroonie/leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Maikonroonie/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
