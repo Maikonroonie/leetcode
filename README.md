@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3531-count-covered-buildings](https://github.com/Maikonroonie/leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Maikonroonie/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Maikonroonie/leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Maikonroonie/leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Maikonroonie/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Maikonroonie/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Maikonroonie/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3388-right-triangles](https://github.com/Maikonroonie/leetcode/tree/master/3388-right-triangles) |
 | [3531-count-covered-buildings](https://github.com/Maikonroonie/leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Maikonroonie/leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Maikonroonie/leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Maikonroonie/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Maikonroonie/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Maikonroonie/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3462-vowels-game-in-a-string](https://github.com/Maikonroonie/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Maikonroonie/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Maikonroonie/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/Maikonroonie/leetcode/tree/master/3606-coupon-code-validator) |
 | [3797-design-spreadsheet](https://github.com/Maikonroonie/leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Maikonroonie/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -421,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Maikonroonie/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3433-count-mentions-per-user](https://github.com/Maikonroonie/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Maikonroonie/leetcode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Maikonroonie/leetcode/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Maikonroonie/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
