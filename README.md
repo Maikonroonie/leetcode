@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/Maikonroonie/leetcode/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maikonroonie/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Maikonroonie/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Maikonroonie/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Maikonroonie/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Maikonroonie/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Maikonroonie/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Maikonroonie/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Maikonroonie/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maikonroonie/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Maikonroonie/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Maikonroonie/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Maikonroonie/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Maikonroonie/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maikonroonie/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Maikonroonie/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Maikonroonie/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Maikonroonie/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Maikonroonie/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Maikonroonie/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
