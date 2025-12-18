@@ -46,9 +46,7 @@ class Solution:
             if prev_r == -1:
                 ans += 2 * prices[r]
             elif prev_r == 1:
-                res = max(res, ans)
-                continue
-            
+                pass
             res = max(res, ans)
         
         res = max(res, original)
