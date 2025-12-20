@@ -416,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-reducing-dishes](https://github.com/Maikonroonie/leetcode/tree/master/1503-reducing-dishes) |
 | [1539-diagonal-traverse-ii](https://github.com/Maikonroonie/leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Maikonroonie/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2092-find-all-people-with-secret](https://github.com/Maikonroonie/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Maikonroonie/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Maikonroonie/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Maikonroonie/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -739,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0863-sum-of-distances-in-tree](https://github.com/Maikonroonie/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0922-possible-bipartition](https://github.com/Maikonroonie/leetcode/tree/master/0922-possible-bipartition) |
 | [1300-critical-connections-in-a-network](https://github.com/Maikonroonie/leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [2092-find-all-people-with-secret](https://github.com/Maikonroonie/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Maikonroonie/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Maikonroonie/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -783,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-possible-bipartition](https://github.com/Maikonroonie/leetcode/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/1036-rotting-oranges) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Maikonroonie/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [2092-find-all-people-with-secret](https://github.com/Maikonroonie/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Maikonroonie/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Maikonroonie/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
@@ -864,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1229-shortest-path-with-alternating-colors](https://github.com/Maikonroonie/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1300-critical-connections-in-a-network](https://github.com/Maikonroonie/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1916-find-center-of-star-graph](https://github.com/Maikonroonie/leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2092-find-all-people-with-secret](https://github.com/Maikonroonie/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Maikonroonie/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Maikonroonie/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
@@ -880,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/Maikonroonie/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Maikonroonie/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Maikonroonie/leetcode/tree/master/0922-possible-bipartition) |
+| [2092-find-all-people-with-secret](https://github.com/Maikonroonie/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Maikonroonie/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
