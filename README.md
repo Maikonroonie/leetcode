@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0902-minimum-number-of-refueling-stops](https://github.com/Maikonroonie/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/Maikonroonie/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Maikonroonie/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/Maikonroonie/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Maikonroonie/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Maikonroonie/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Maikonroonie/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Maikonroonie/leetcode/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/Maikonroonie/leetcode/tree/master/0807-custom-sort-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Maikonroonie/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0973-stamping-the-sequence](https://github.com/Maikonroonie/leetcode/tree/master/0973-stamping-the-sequence) |
 | [1006-vowel-spellchecker](https://github.com/Maikonroonie/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Maikonroonie/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
