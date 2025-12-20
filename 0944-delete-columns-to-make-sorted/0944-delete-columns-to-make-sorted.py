@@ -15,8 +15,6 @@ class Solution:
                 elif last_letter[i] <= letter:
                     last_letter[i] = letter
                 else:
-                    print(last_letter[i])
-                    print(letter)
                     is_g[i] = False
                     res += 1
         
