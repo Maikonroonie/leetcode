@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Maikonroonie/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Maikonroonie/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Maikonroonie/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/Maikonroonie/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Maikonroonie/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Maikonroonie/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-custom-sort-string](https://github.com/Maikonroonie/leetcode/tree/master/0807-custom-sort-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Maikonroonie/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Maikonroonie/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Maikonroonie/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0973-stamping-the-sequence](https://github.com/Maikonroonie/leetcode/tree/master/0973-stamping-the-sequence) |
 | [1006-vowel-spellchecker](https://github.com/Maikonroonie/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Maikonroonie/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-new-21-game](https://github.com/Maikonroonie/leetcode/tree/master/0867-new-21-game) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Maikonroonie/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Maikonroonie/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/Maikonroonie/leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Maikonroonie/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Maikonroonie/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
