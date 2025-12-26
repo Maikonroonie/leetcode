@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Maikonroonie/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Maikonroonie/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/Maikonroonie/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Maikonroonie/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Maikonroonie/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2887-sort-vowels-in-a-string](https://github.com/Maikonroonie/leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -963,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Maikonroonie/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Maikonroonie/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1590-make-sum-divisible-by-p](https://github.com/Maikonroonie/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Maikonroonie/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/Maikonroonie/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Maikonroonie/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Maikonroonie/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
