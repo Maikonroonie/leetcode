@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-delete-columns-to-make-sorted](https://github.com/Maikonroonie/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Maikonroonie/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Maikonroonie/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Maikonroonie/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Maikonroonie/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Maikonroonie/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Maikonroonie/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Maikonroonie/leetcode/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/Maikonroonie/leetcode/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/Maikonroonie/leetcode/tree/master/0876-hand-of-straights) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Maikonroonie/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Maikonroonie/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Maikonroonie/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Maikonroonie/leetcode/tree/master/1039-find-the-town-judge) |
