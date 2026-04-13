@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Maikonroonie/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Maikonroonie/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/Maikonroonie/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Maikonroonie/leetcode/tree/master/0912-sort-an-array) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Maikonroonie/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Maikonroonie/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/Maikonroonie/leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Maikonroonie/leetcode/tree/master/0883-car-fleet) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Maikonroonie/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0912-sort-an-array](https://github.com/Maikonroonie/leetcode/tree/master/0912-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Maikonroonie/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Maikonroonie/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maikonroonie/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -598,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Maikonroonie/leetcode/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/Maikonroonie/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Maikonroonie/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Maikonroonie/leetcode/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -841,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/Maikonroonie/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Maikonroonie/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Maikonroonie/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0912-sort-an-array](https://github.com/Maikonroonie/leetcode/tree/master/0912-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Maikonroonie/leetcode/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1539-diagonal-traverse-ii](https://github.com/Maikonroonie/leetcode/tree/master/1539-diagonal-traverse-ii) |
@@ -859,6 +863,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0164-maximum-gap](https://github.com/Maikonroonie/leetcode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/Maikonroonie/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Maikonroonie/leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -879,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Maikonroonie/leetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Maikonroonie/leetcode/tree/master/0912-sort-an-array) |
 ## Graph
 |  |
 | ------- |
@@ -1095,9 +1101,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Maikonroonie/leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maikonroonie/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Maikonroonie/leetcode/tree/master/0239-sliding-window-maximum) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Maikonroonie/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
