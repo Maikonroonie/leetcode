@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Maikonroonie/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Maikonroonie/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Maikonroonie/leetcode/tree/master/0768-partition-labels) |
+| [1768-merge-strings-alternately](https://github.com/Maikonroonie/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Maikonroonie/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Maikonroonie/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Maikonroonie/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Maikonroonie/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1652-minimum-suffix-flips](https://github.com/Maikonroonie/leetcode/tree/master/1652-minimum-suffix-flips) |
+| [1768-merge-strings-alternately](https://github.com/Maikonroonie/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Maikonroonie/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Maikonroonie/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/Maikonroonie/leetcode/tree/master/2429-design-a-food-rating-system) |
