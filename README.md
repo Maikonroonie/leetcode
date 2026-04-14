@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Maikonroonie/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Maikonroonie/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Maikonroonie/leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Maikonroonie/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Maikonroonie/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Maikonroonie/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Maikonroonie/leetcode/tree/master/0053-maximum-subarray) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Maikonroonie/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Maikonroonie/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Maikonroonie/leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Maikonroonie/leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Maikonroonie/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Maikonroonie/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Maikonroonie/leetcode/tree/master/0139-word-break) |
