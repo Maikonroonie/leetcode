@@ -1,5 +1,6 @@
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
+        # cycle sort
         '''
         n = len(nums)
         i = 0
@@ -20,6 +21,7 @@ class Solution:
 
         return n + 1
         '''
+        # arr as a hash table
         for i in range(len(nums)):
             if nums[i] < 0:
                 nums[i] = 0
