@@ -358,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Maikonroonie/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Maikonroonie/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Maikonroonie/leetcode/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/Maikonroonie/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Maikonroonie/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Maikonroonie/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Maikonroonie/leetcode/tree/master/0097-interleaving-string) |
@@ -723,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maikonroonie/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Maikonroonie/leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Maikonroonie/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Maikonroonie/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maikonroonie/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Maikonroonie/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
