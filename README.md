@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0638-shopping-offers](https://github.com/Maikonroonie/leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/Maikonroonie/leetcode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Maikonroonie/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Maikonroonie/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/Maikonroonie/leetcode/tree/master/0739-daily-temperatures) |
@@ -659,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Maikonroonie/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Maikonroonie/leetcode/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/Maikonroonie/leetcode/tree/master/0682-baseball-game) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Maikonroonie/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Maikonroonie/leetcode/tree/master/1642-water-bottles) |
@@ -726,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Maikonroonie/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/Maikonroonie/leetcode/tree/master/0321-create-maximum-number) |
 | [0678-valid-parenthesis-string](https://github.com/Maikonroonie/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Maikonroonie/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Maikonroonie/leetcode/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Maikonroonie/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0883-car-fleet](https://github.com/Maikonroonie/leetcode/tree/master/0883-car-fleet) |
