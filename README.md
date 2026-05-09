@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1726-tuple-with-same-product](https://github.com/Maikonroonie/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Maikonroonie/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2032-two-out-of-three](https://github.com/Maikonroonie/leetcode/tree/master/2032-two-out-of-three) |
+| [2103-rings-and-rods](https://github.com/Maikonroonie/leetcode/tree/master/2103-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Maikonroonie/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Maikonroonie/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Maikonroonie/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-number-of-substrings-with-only-1s](https://github.com/Maikonroonie/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1652-minimum-suffix-flips](https://github.com/Maikonroonie/leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1768-merge-strings-alternately](https://github.com/Maikonroonie/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2103-rings-and-rods](https://github.com/Maikonroonie/leetcode/tree/master/2103-rings-and-rods) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Maikonroonie/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Maikonroonie/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/Maikonroonie/leetcode/tree/master/2429-design-a-food-rating-system) |
