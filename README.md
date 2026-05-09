@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maikonroonie/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/Maikonroonie/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Maikonroonie/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Maikonroonie/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1726-tuple-with-same-product](https://github.com/Maikonroonie/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Maikonroonie/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Maikonroonie/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Maikonroonie/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/Maikonroonie/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Maikonroonie/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Maikonroonie/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Maikonroonie/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1652-minimum-suffix-flips](https://github.com/Maikonroonie/leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1768-merge-strings-alternately](https://github.com/Maikonroonie/leetcode/tree/master/1768-merge-strings-alternately) |
