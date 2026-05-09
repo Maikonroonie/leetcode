@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Maikonroonie/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Maikonroonie/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2625-increment-submatrices-by-one](https://github.com/Maikonroonie/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Maikonroonie/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/Maikonroonie/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Maikonroonie/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Maikonroonie/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Maikonroonie/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Maikonroonie/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maikonroonie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1056,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Maikonroonie/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maikonroonie/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Maikonroonie/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Maikonroonie/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3199-distribute-candies-among-children-i](https://github.com/Maikonroonie/leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Maikonroonie/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
