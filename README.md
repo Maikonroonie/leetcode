@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Maikonroonie/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Maikonroonie/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Maikonroonie/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Maikonroonie/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maikonroonie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Maikonroonie/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3388-right-triangles](https://github.com/Maikonroonie/leetcode/tree/master/3388-right-triangles) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Maikonroonie/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Maikonroonie/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Maikonroonie/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Maikonroonie/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Maikonroonie/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Maikonroonie/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Maikonroonie/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
