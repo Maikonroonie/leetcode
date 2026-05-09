@@ -1,5 +1,6 @@
 class Solution:
     def minNumber(self, nums1: List[int], nums2: List[int]) -> int:
+        '''
         n, m = len(nums1), len(nums2)
         d = set()
         if n <= m:
@@ -38,4 +39,14 @@ class Solution:
             return sol(nums2, d1, res)
         else:
             return sol(nums1, d2, res)
+        '''
+        common = set(nums1) & set(nums2)
+        
+        if common:
+            return min(common)
+        
+        min1 = min(nums1)
+        min2 = min(nums2)
+        
+        return min(min1, min2) * 10 + max(min1, min2)
         
