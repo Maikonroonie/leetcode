@@ -34,3 +34,7 @@ class Solution:
             n3 = n3//10
         
         return True
+        '''
+        s = f"{n}{n*2}{n*3}"
+        return len(s) == 9 and set(s) == set("123456789")
+        '''
