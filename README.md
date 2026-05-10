@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2402-meeting-rooms-iii](https://github.com/Maikonroonie/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Maikonroonie/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Maikonroonie/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Maikonroonie/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Maikonroonie/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maikonroonie/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Maikonroonie/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Maikonroonie/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Maikonroonie/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Maikonroonie/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Maikonroonie/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Maikonroonie/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Maikonroonie/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Maikonroonie/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/Maikonroonie/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Maikonroonie/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Maikonroonie/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Maikonroonie/leetcode/tree/master/2502-sort-the-people) |
 | [2681-put-marbles-in-bags](https://github.com/Maikonroonie/leetcode/tree/master/2681-put-marbles-in-bags) |
