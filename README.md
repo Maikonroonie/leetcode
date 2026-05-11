@@ -1171,4 +1171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Maikonroonie/leetcode/tree/master/0912-sort-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Maikonroonie/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
