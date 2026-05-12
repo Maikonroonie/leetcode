@@ -1,62 +1,49 @@
-class Solution(object):
-    def pacificAtlantic(self, heights):
-        n=len(heights)
-        m=len(heights[0])
-        stack=[]
-        set_P=set()
-        visited=set()
+class Solution:
+    def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
+        n = len(heights)
+        m = len(heights[0])
+        res = []
+        stack = []
+        # first we try to get from pacific to atalantic 
+        P_set = set()
+        #visited = set()
         for i in range(n):
             stack.append((i, 0))
-            set_P.add((i, 0))
-            visited.add((i, 0))
+            P_set.add((i, 0))
+           # visited.add((i, 0))
         for j in range(m):
             stack.append((0, j))
-            set_P.add((0, j))
-            visited.add((0, j))
-
-
+            P_set.add((0, j))
+           # visited.add((0, j))
         while stack:
-            x, y = stack.pop()
-            visited.add((x, y))
-            for dx, dy, in [(1,0), (-1,0), (0,1), (0,-1)]:
-                nx, ny = x + dx, y + dy
-                if 0 <=nx<n and 0<=ny<m and (nx, ny) not in visited:
-                    if heights[nx][ny]>=heights[x][y]:
-                        visited.add((nx, ny))
-                        stack.append((nx, ny))
-                        set_P.add((nx, ny))
-        visited2=set()
-        stack2=[]
-        set_A=set()
+            r, c = stack.pop()
+            for dx, dy in [[0, 1], [0, -1], [1, 0], [-1, 0]]:
+                nr, nc = r + dx, c + dy
+                if 0 <= nr < n and 0 <= nc < m and (nr, nc) not in P_set:
+                    if heights[nr][nc] >= heights[r][c]:
+                        stack.append((nr, nc))
+                        #visited.add((nr, nc))
+                        P_set.add((nr, nc))
+        
+        # we do same thing for atlantic ocean
+        A_set = set()
         for i in range(n):
-            stack2.append((i, m-1))
-            set_A.add((i, m-1))
-            visited2.add((i, m-1))
+            stack.append((i, m-1))
+            A_set.add((i, m-1))
         for j in range(m):
-            stack2.append((n-1, j))
-            set_A.add((n-1, j))
-            visited2.add((n-1, j))
-
-
-        while stack2:
-            x, y = stack2.pop()
-            visited2.add((x, y))
-            for dx, dy, in [(1,0), (-1,0), (0,1), (0,-1)]:
-                nx, ny = x + dx, y + dy
-                if 0 <=nx<n and 0<=ny<m and (nx, ny) not in visited2:
-                    if heights[nx][ny]>=heights[x][y]:
-                        visited2.add((nx, ny))
-                        stack2.append((nx, ny))
-                        set_A.add((nx, ny))
-        result=[]
+            stack.append((n-1, j))
+            A_set.add((n-1, j))
+        while stack:
+            r, c = stack.pop()
+            for dx, dy in [[0, 1], [0, -1], [1, 0], [-1, 0]]:
+                nr, nc = r + dx, c + dy
+                if 0 <= nr < n and 0 <= nc < m and (nr, nc) not in A_set:
+                    if heights[nr][nc] >= heights[r][c]:
+                        stack.append((nr, nc))
+                        A_set.add((nr, nc))
+        
         for i in range(n):
             for j in range(m):
-                if (i, j) in set_A and (i, j) in set_P:
-                    result.append((i, j))
-        print(set_A)
-        print(set_P)
-        return result
-
-        #program polega na dfs przy brzegach oceanow i dodawanie do set_A pól ktore "wpłynął do atlantyku"
-        # i do set_P pola które wpłynął do pacyfiku i potem zrobienie częśći wspolnej setów (intersection)
-        #prawdopodobnie na spokojnie mozna to napisac w dwa razy mniej linijek, ale trudno, tak wyszło
+                if (i, j) in P_set and (i, j) in A_set:
+                    res.append((i, j))
+        return res
