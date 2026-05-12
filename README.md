@@ -820,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Maikonroonie/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Maikonroonie/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0744-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/Maikonroonie/leetcode/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/Maikonroonie/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -864,6 +865,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Maikonroonie/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Maikonroonie/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Maikonroonie/leetcode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0744-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/Maikonroonie/leetcode/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/Maikonroonie/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -894,6 +896,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Maikonroonie/leetcode/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0743-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Maikonroonie/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/Maikonroonie/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -1013,6 +1016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0744-network-delay-time) |
 ## Biconnected Component
 |  |
@@ -1180,4 +1184,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/Maikonroonie/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Maikonroonie/leetcode/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/Maikonroonie/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
