@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Maikonroonie/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Maikonroonie/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Maikonroonie/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Maikonroonie/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Maikonroonie/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Maikonroonie/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -668,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0777-toeplitz-matrix](https://github.com/Maikonroonie/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0794-swim-in-rising-water](https://github.com/Maikonroonie/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0921-spiral-matrix-iii](https://github.com/Maikonroonie/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0994-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Maikonroonie/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maikonroonie/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -873,6 +875,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/Maikonroonie/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Maikonroonie/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0922-possible-bipartition](https://github.com/Maikonroonie/leetcode/tree/master/0922-possible-bipartition) |
+| [0994-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Maikonroonie/leetcode/tree/master/1036-rotting-oranges) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Maikonroonie/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2092-find-all-people-with-secret](https://github.com/Maikonroonie/leetcode/tree/master/2092-find-all-people-with-secret) |
