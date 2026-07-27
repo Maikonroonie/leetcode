@@ -1,16 +1,22 @@
-class Solution(object):
-    def topKFrequent(self, nums, k):
-        count = {}
-        freq= [[] for i in range(len(nums)+1)]
-
-        for n in nums:
-            count[n] = 1 + count.get(n, 0)
-        for n, c in count.items():
-            freq[c].append(n)
-        res=[]
-        for i in range(len(freq)-1, 0, -1):
-            for n in freq[i]:
-                res.append(n)
-                if len(res)==k:
-                    return res
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        cnt = defaultdict(int)
+        for num in nums:
+            cnt[num] += 1
+        heap = []
+        cur = 0
+        for num, times in cnt.items():
+            if cur < k:
+                heapq.heappush(heap, (times, num))
+                cur += 1
+            else:
+                tup = heapq.heappop(heap)
+                if tup[0] > times:
+                    heapq.heappush(heap, tup)
+                else:
+                    heapq.heappush(heap, (times, num))        
+        res = []
+        for t, n in heap:
+            res.append(n)
+        return res
 
