@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Maikonroonie/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Maikonroonie/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/Maikonroonie/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Maikonroonie/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Maikonroonie/leetcode/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Maikonroonie/leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Maikonroonie/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Maikonroonie/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Maikonroonie/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Maikonroonie/leetcode/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -617,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Maikonroonie/leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Maikonroonie/leetcode/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Maikonroonie/leetcode/tree/master/0517-super-washing-machines) |
+| [0561-array-partition](https://github.com/Maikonroonie/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Maikonroonie/leetcode/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/Maikonroonie/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Maikonroonie/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1183,6 +1186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Maikonroonie/leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Maikonroonie/leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maikonroonie/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Queue
