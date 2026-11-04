@@ -1,16 +1,13 @@
 class Solution:
-    def plusOne(self, digits: List[int]) -> List[int]:
-        l=len(digits)
-        x=digits[l-1]
-        wynik=[0 for i in range(l+1)]
-        przes=1
-        for i in range(1,l+1):
-            a=digits[-i]
-            suma=a+przes
-            wynik[-i]=suma%10
-            przes=suma//10
-        if przes>0:
-            wynik[0]=przes
-        else:
-            wynik=wynik[1:]
-        return wynik
+    def plusOne(self, digits: list[int]) -> list[int]:
+        n = len(digits)
+        t = n - 1
+        
+        while t >= 0:
+            if digits[t] < 9:
+                digits[t] += 1
+                return digits
+            digits[t] = 0
+            t -= 1
+            
+        return [1] + digits
